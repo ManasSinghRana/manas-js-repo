@@ -1,2 +1,2 @@
 # manas-js-repo
-my beginners codes of javascript
+my codes of javascript
